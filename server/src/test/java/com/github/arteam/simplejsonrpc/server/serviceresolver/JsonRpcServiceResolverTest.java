@@ -20,9 +20,8 @@ import java.util.Properties;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
- * Date: 7/28/14
- * Time: 10:29 PM
  * Tests typical patterns of a JSON-RPC interaction
+ * JsonRpcServiceResolverTest in combination with SpecTest
  */
 public class JsonRpcServiceResolverTest {
 
